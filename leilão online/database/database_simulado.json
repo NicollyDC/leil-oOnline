@@ -1,0 +1,12 @@
+{
+  "item123": {
+    "nomeItem": "Notebook Gamer",
+    "maiorLance": 2500,
+    "maiorLanceUser": "usuario_inicial"
+  },
+  "item456": {
+    "nomeItem": "Monitor Ultrawide",
+    "maiorLance": 800,
+    "maiorLanceUser": "usuario_inicial"
+  }
+}

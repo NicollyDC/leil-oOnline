@@ -1,0 +1,22 @@
+[
+  {
+    "itemId": "item123",
+    "valor": 2600,
+    "userId": "ana_silva"
+  },
+  {
+    "itemId": "item123",
+    "valor": 2550,
+    "userId": "bruno_costa"
+  },
+  {
+    "itemId": "item456",
+    "valor": 900,
+    "userId": "carla_dias"
+  },
+  {
+    "itemId": "item123",
+    "valor": 5700,
+    "userId": "david_rocha"
+  }
+]
